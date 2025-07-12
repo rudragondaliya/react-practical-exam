@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": "9a0d",
+      "grid": "71",
+      "username": "gasanu",
+      "email": "xavisosyn@mailinator.com",
+      "age": "7"
+    },
+    {
+      "id": "48ec",
+      "grid": "7932",
+      "username": "gemogeqo",
+      "email": "nakybe@mailinator.com",
+      "age": "8"
+    },
+    {
+      "id": "118a",
+      "grid": "75",
+      "username": "setyhynusy",
+      "email": "tuposyhusa@mailinator.com",
+      "age": "15"
+    },
+    {
+      "id": "fdbd",
+      "grid": "853",
+      "username": "wyjywyjusu",
+      "email": "dadikexem@mailinator.com",
+      "age": "14"
+    }
+  ]
+}
